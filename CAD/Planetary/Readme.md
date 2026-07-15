@@ -17,6 +17,8 @@
 
 ### v1
 
+![Planetary Gearbox v1](../../docs/Planetaryv1.png)
+
 | Problem | Fix |
 |---|---|
 | Planet gears sit plastic-on-plastic on their front face, causing high friction under axial load | Add axial (thrust) ball bearings at the contact faces |
